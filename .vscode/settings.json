@@ -1,0 +1,8 @@
+{
+    "prettier.insertPragma": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.requireConfig": true,
+    "prettier.trailingComma": "all",
+    "prettier.withNodeModules": true,
+    "prettier.useTabs": true
+}
